@@ -8,12 +8,12 @@
 
 }
 .text-primary{
-    color:#FD6E0A;
+    color:#FC4C4E;
 }
 .btn-primary{
     height: 64px;
     border-radius: 5px;
-    background-color:  #FD6E0A;
+    background-color:  #FC4C4E;
     color: white;
     font-weight: 700;
     font-size: 20px;
@@ -67,11 +67,11 @@ nav ul{
 .btn-con{
     height: 64px;
     border-radius: 5px;
-    color:  #FD6E0A;
+    color:  #FC4C4E;
     background-color: white;
     font-weight: 700;
     font-size: 20px;
-    border-color: #FD6E0A;
+    border-color: #FC4C4E;
     padding: 18px 35px;
     
 
