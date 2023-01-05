@@ -103,6 +103,7 @@ main{
 
     display: flex;
     justify-content: space-around;
+    
 }
 .about-info{
     text-align: center;
@@ -117,4 +118,75 @@ main{
     font-weight: 700;
     font-size: 20px;
 }
+.skill-container{
+    display: flex;
+    gap: 24px;
+    margin-bottom: 130px;
+}
 
+.skill{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+.skill-para{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+    text-align: justify;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    color: #181818;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.header-resume{
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+}
+.resume{
+           margin-bottom: 120px;
+}
+.resume-container{
+    display: flex;
+    gap: 71px;
+    margin-bottom: 50px;
+}
+.edu-dis{
+    border-bottom: 1px solid #D1D1D1;
+   
+}
+.edu-title-1{
+    margin-bottom: 30px;
+    color: #474747;
+    font-weight: 700;
+    font-size: 30px;
+}
+.edu-title{
+    color: #474747;
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.edu-para{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 30px;
+
+}
+.uni{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+.cv-download{
+   text-align: center;
+   margin-bottom: 113px;
+}
